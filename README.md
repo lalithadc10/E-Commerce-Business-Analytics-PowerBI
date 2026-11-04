@@ -15,7 +15,8 @@ The project focuses on translating business questions into meaningful analysis a
 - Which product categories contribute most to sales?
 
 
-![Executive Overview Dashboard](Screenshots/Executive_Overview.png)
+![Executive Overview Dashboard](Screenshots/Executive_overview.png)
+
 
 ---
 
@@ -28,7 +29,8 @@ The project focuses on translating business questions into meaningful analysis a
 - Which customers contribute significantly to overall business revenue?
 
 
-![Customer Insights Dashboard](Screenshots/Customer_Insights.png)
+![Customer Insights Dashboard](Screenshots/Customer_insights.png)
+
 
 ---
 
@@ -40,7 +42,7 @@ The project focuses on translating business questions into meaningful analysis a
 - How do different product categories perform?
 - Which products require further investigation?
 
-![Product Performance Dashboard](Screenshots/Product_Performance.png)
+![Product Performance Dashboard](Screenshots/product_performance.png)
 
 ---
 
@@ -51,9 +53,13 @@ The project focuses on translating business questions into meaningful analysis a
 - How does customer retention change across acquisition cohorts?
 - At which month after the first purchase does retention weaken?
 - Which customer cohorts demonstrate stronger repeat-purchase behaviour?
+  
+![Cohort Analysis Dashboard](Screenshots/cohort_analysis.png)
+
+![Customer Retention Dashboard](Screenshots/Customer_retention.png)
 
 
-![Customer Retention Dashboard](Screenshots/Customer_Retention.png)
+
 
 **Key Insights:**
 - Identified 7,401 customers eligible for cohort analysis.
